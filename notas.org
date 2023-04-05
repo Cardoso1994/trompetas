@@ -1,0 +1,8 @@
+#+title: Notas
+
+alto: 180
+ancho: 240
+rango rotacion: 20°
+generar 32 imagenes por iteracion
+steps per epoch: 2000
+3 iteraciones
